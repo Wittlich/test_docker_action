@@ -1,0 +1,5 @@
+name: 'Test runner suite'
+description: 'A suite for automated test running'
+runs:
+    using: 'docker'
+    image: 'Dockerfile'  
